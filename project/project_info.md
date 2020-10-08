@@ -65,3 +65,7 @@ If you are proposing your own project, please submit the proposal by **Friday, O
 ## Group Assignment
 
 Groups will be 3 or 4 people.  Unless you are proposing your own project, groups will be assigned.  If two people would like to be assigned to the same group, send an email with your partner CC'd to the instructor and TAs requesting to be in the same group.  We'll do our best to keep partners together.
+
+If you would like to have a partner on the default project, please send an email to the course staff by **Friday, October 16**
+
+We will form groups the week of October 19 so you have some time to work together before the midterm checkpoint.
